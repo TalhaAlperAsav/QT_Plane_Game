@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Age of War - Theme Soundtrack.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background.png</file>
+        <file>enemy.png</file>
+        <file>player.png</file>
+        <file>bullet.png</file>
+    </qresource>
+</RCC>
